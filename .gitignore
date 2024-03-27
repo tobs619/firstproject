@@ -1,0 +1,5 @@
+# Default ignored files
+src/test/resources/config/user.properties
+target
+.idea
+
